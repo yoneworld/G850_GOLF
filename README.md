@@ -30,9 +30,15 @@ CRLF
 # G850_GOLF
 <div><video controls src="https://github.com/yoneworld/G850_GOLF/assets/2682671/da8bc3ee-bafc-417b-8715-f2ee7957b406" muted="false"></video></div>
 
+### タイトル画面
 ![GOLF1](https://github.com/yoneworld/G850_GOLF/assets/2682671/5852bbc7-377e-480c-80cc-dee9ada9d00c)
+
+### コース画面
 ![GOLF2](https://github.com/yoneworld/G850_GOLF/assets/2682671/1c66cf81-8790-468a-9cf9-00212542ed72)
+
+### クラブを選択
 ![GOLF3](https://github.com/yoneworld/G850_GOLF/assets/2682671/d9188b14-e039-4411-ac27-3040cbfdc801)
+
+### パワー
 ![GOLF4](https://github.com/yoneworld/G850_GOLF/assets/2682671/9443ea58-7ba1-48e7-bc50-7e29dbb5bcb1)
 ![GOLF5](https://github.com/yoneworld/G850_GOLF/assets/2682671/c862962e-00a7-4f96-ba89-ec1219f54d63)
-
