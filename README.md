@@ -40,6 +40,9 @@ CRLF
 ### コース画面
 ![GOLF2](https://github.com/yoneworld/G850_GOLF/assets/2682671/1c66cf81-8790-468a-9cf9-00212542ed72)
 
+### コースの説明
+![explain](https://github.com/yoneworld/G850_GOLF/assets/2682671/88810eae-8040-4420-b96c-83aee39e4e21)
+
 ### クラブを選択
 ![GOLF3A](https://github.com/yoneworld/G850_GOLF/assets/2682671/dc56834c-0cf7-400d-88ee-e1382511835e)
 
