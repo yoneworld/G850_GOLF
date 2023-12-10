@@ -32,7 +32,7 @@ CRLF
 ```
 
 # G850_GOLF
-<div><video controls src="https://github.com/yoneworld/G850_GOLF/assets/2682671/da8bc3ee-bafc-417b-8715-f2ee7957b406" muted="false"></video></div>
+<div><video controls src="https://github.com/yoneworld/G850_GOLF/assets/2682671/12a59b66-fe4e-4890-896d-056fbe825d7d" muted="false"></video></div>
 
 ### タイトル画面
 ![GOLF1](https://github.com/yoneworld/G850_GOLF/assets/2682671/5852bbc7-377e-480c-80cc-dee9ada9d00c)
