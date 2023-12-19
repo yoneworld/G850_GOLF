@@ -37,11 +37,12 @@ CRLF
 ![GOLF2](https://github.com/yoneworld/G850_GOLF/assets/2682671/1c66cf81-8790-468a-9cf9-00212542ed72)
 
 ### クラブの選択画面
-![GOLF3A](https://github.com/yoneworld/G850_GOLF/assets/2682671/dc56834c-0cf7-400d-88ee-e1382511835e)
+![image](https://github.com/yoneworld/G850_GOLF/assets/2682671/0b503540-7092-4263-a2fb-0f89eee0964a)
 
 ### パワー
 ![GOLF4](https://github.com/yoneworld/G850_GOLF/assets/2682671/9443ea58-7ba1-48e7-bc50-7e29dbb5bcb1)
 ![GOLF5](https://github.com/yoneworld/G850_GOLF/assets/2682671/c862962e-00a7-4f96-ba89-ec1219f54d63)
 
 # プレイ動画
-<div><video controls src="https://github.com/yoneworld/G850_GOLF/assets/2682671/12a59b66-fe4e-4890-896d-056fbe825d7d" muted="false"></video></div>
+<div><video controls src="https://github.com/yoneworld/G850_GOLF/assets/2682671/f5d9797d-c26e-4c72-968b-d66404557fbd
+" muted="false"></video></div>
